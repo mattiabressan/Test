@@ -52,7 +52,7 @@ body {
     background-color: #fff;
     border-radius: 1.5%;
     box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.1), 0 3px 10px 0 rgba(0, 0, 0, 0.11);
-    font-family: Georgia, Times, "Times New Roman", serif;
+    font-family: Georgia, 'Source Serif Pro', serif;
     font-size: 60px;
     color: #000;
     text-align: center;
@@ -74,7 +74,7 @@ body {
 }
 
 .subject{
-    font-family: Georgia, Times, "Times New Roman", serif;
+    font-family: Georgia, 'Source Serif Pro', serif;
     color: #fff;
     text-align: center;
     background-color: #6ca200;
@@ -215,7 +215,7 @@ body {
 }
 
 .swiper-slide h6{
-    font-family: Georgia, Times, "Times New Roman", serif;
+    font-family: Georgia, 'Source Serif Pro',serif;
     line-height: 25px;
     margin: 0;
 }

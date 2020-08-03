@@ -232,6 +232,7 @@ body {
 /* Checkbox */
 
 #check{
+    width: 90vw;
     font-family: 'Source Sans Pro', sans-serif;
     font-weight: 400;
     font-size: 15px;
@@ -244,6 +245,7 @@ body {
     padding: 50px 0;
     box-sizing: border-box;
     transition: .1s all;
+    margin-bottom: 50px;
 }
 
 #check #bu{

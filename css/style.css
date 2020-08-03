@@ -345,7 +345,7 @@ header{
      width: 90vw;
      margin-bottom: 5vh;
      font-size: 9em;
-     line-height: 16vh; 
+     line-height: 14vh; 
      transition: .1s all;
  }
  
@@ -429,11 +429,11 @@ header{
  }
  
  #art{
-     font-size: 134px;
+     font-size: 120px;
  }
  
  #history{
-     font-size: 110px;
+     font-size: 90px;
  }
  
  #history .inline{

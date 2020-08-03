@@ -429,12 +429,12 @@ header{
  }
  
  #art{
-     font-size: 80px;
- }
- 
- #history{
-     font-size: 75px;
- }
+    font-size: 100px;
+}
+
+#history{
+    font-size: 95px;
+}
  
  #history .inline{
    margin-bottom: 10px;

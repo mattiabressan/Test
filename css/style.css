@@ -226,7 +226,7 @@ body {
 }
 
 .disabled{
-    color: rgba(0, 0, 0, 0.1);
+    color: rgba(0, 0, 0, 0.1)!important;
 }
 
 /* Checkbox */
@@ -435,7 +435,6 @@ header{
 #history{
     font-size: 95px;
 }
- 
  #history .inline{
    margin-bottom: 10px;
  }
@@ -566,7 +565,7 @@ header{
      align-items: center;
      height: 250px;
      width: 60vw; 
-     margin: 0px 150px  100px 150px;
+     margin: 0px 150px  50px 150px;
 }
  
 .subject{
@@ -678,6 +677,7 @@ header{
  /* Checkbox  */
  
  #check{
+    width: 60vw;
      margin-top: 0px;
 }
  
@@ -857,6 +857,7 @@ header{
 /* Checkbox */
  
 #check{
+    width: 690px;
     margin-top: 0px;
 }
 

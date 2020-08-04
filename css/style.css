@@ -58,6 +58,7 @@ body {
     text-align: center;
     vertical-align: middle;
     line-height: 100px; 
+    height: 100px;
 }
 
  /* Topic */
@@ -345,7 +346,7 @@ header{
      width: 90vw;
      margin-bottom: 5vh;
      font-size: 9em;
-     line-height: 14vh; 
+     line-height: 16vh; 
      transition: .1s all;
  }
  
